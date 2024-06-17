@@ -1,40 +1,43 @@
 ﻿using System;
 
-public class Game
+namespace ConnectFour
 {
-    private Board board;
-    private Player player1;
-    private Player player2;
-
-    public Game()
+    public class Game
     {
-        board = new Board();
-        player1 = new HumanPlayer('X', "Jogador 1");
-        player2 = new HumanPlayer('O', "Jogador 2");
-    }
+        private Board board;
+        private Player player1;
+        private Player player2;
 
-    public void Play()
-    {
-        Player currentPlayer = player1;
-        while (true)
+        public Game()
         {
-            board.Display();
-            int move = currentPlayer.GetMove();
+            board = new Board();
+            player1 = new HumanPlayer('X', "Jogador 1");
+            player2 = new HumanPlayer('O', "Jogador 2");
+        }
 
-            if (!board.DropPiece(move, currentPlayer.Symbol))
+        public void Play()
+        {
+            Player currentPlayer = player1;
+            while (true)
             {
-                Console.WriteLine("Coluna cheia. Tente novamente.");
-                continue;
-            }
+                board.DisplayBoard();
+                int move = currentPlayer.GetMove();
 
-            if (board.CheckForWin(currentPlayer.Symbol))
-            {
-                board.Display();
-                Console.WriteLine($"{currentPlayer.Name} venceu!");
-                break;
-            }
+                if (!board.PlaceDisc(currentPlayer.Symbol, move))
+                {
+                    Console.WriteLine("Coluna cheia. Tente novamente.");
+                    continue;
+                }
 
-            currentPlayer = currentPlayer == player1 ? player2 : player1;
+                if (board.CheckWin(currentPlayer.Symbol))
+                {
+                    board.DisplayBoard();
+                    Console.WriteLine($"{currentPlayer.Name} venceu!");
+                    break;
+                }
+
+                currentPlayer = currentPlayer == player1 ? player2 : player1;
+            }
         }
     }
 }

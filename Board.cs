@@ -41,9 +41,79 @@ namespace ConnectFour
 
         public bool CheckWin(char symbol)
         {
-            // Verificar linhas, colunas e diagonais para uma vitória
-            // Implementação omitida para simplicidade
+            // Verificar linhas
+            for (int row = 0; row < rows; row++)
+            {
+                for (int col = 0; col < columns - 3; col++)
+                {
+                    if (grid[row, col] == symbol &&
+                        grid[row, col + 1] == symbol &&
+                        grid[row, col + 2] == symbol &&
+                        grid[row, col + 3] == symbol)
+                    {
+                        return true;
+                    }
+                }
+            }
+
+            // Verificar colunas
+            for (int row = 0; row < rows - 3; row++)
+            {
+                for (int col = 0; col < columns; col++)
+                {
+                    if (grid[row, col] == symbol &&
+                        grid[row + 1, col] == symbol &&
+                        grid[row + 2, col] == symbol &&
+                        grid[row + 3, col] == symbol)
+                    {
+                        return true;
+                    }
+                }
+            }
+
+            // Verificar diagonais (cima-esquerda para baixo-direita)
+            for (int row = 0; row < rows - 3; row++)
+            {
+                for (int col = 0; col < columns - 3; col++)
+                {
+                    if (grid[row, col] == symbol &&
+                        grid[row + 1, col + 1] == symbol &&
+                        grid[row + 2, col + 2] == symbol &&
+                        grid[row + 3, col + 3] == symbol)
+                    {
+                        return true;
+                    }
+                }
+            }
+
+            // Verificar diagonais (baixo-esquerda para cima-direita)
+            for (int row = 3; row < rows; row++)
+            {
+                for (int col = 0; col < columns - 3; col++)
+                {
+                    if (grid[row, col] == symbol &&
+                        grid[row - 1, col + 1] == symbol &&
+                        grid[row - 2, col + 2] == symbol &&
+                        grid[row - 3, col + 3] == symbol)
+                    {
+                        return true;
+                    }
+                }
+            }
+
             return false;
+        }
+
+        public bool IsFull()
+        {
+            for (int col = 0; col < columns; col++)
+            {
+                if (grid[0, col] == ' ')
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
         public void DisplayBoard()
