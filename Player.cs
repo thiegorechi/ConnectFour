@@ -1,13 +1,14 @@
-﻿public abstract class Player
+﻿namespace ConnectFour
 {
-    public char Symbol { get; set; }
-    public string Name { get; set; }
-
-    public Player(char symbol, string name)
+    public abstract class Player
     {
-        Symbol = symbol;
-        Name = name;
-    }
+        public char Symbol { get; }
 
-    public abstract int GetMove();
+        public Player(char symbol)
+        {
+            Symbol = symbol;
+        }
+
+        public abstract int GetMove();
+    }
 }

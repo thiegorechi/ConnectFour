@@ -1,17 +1,17 @@
 ﻿using System;
 
-public class HumanPlayer : Player
+namespace ConnectFour
 {
-    public HumanPlayer(char symbol, string name) : base(symbol, name) { }
-
-    public override int GetMove()
+    public class HumanPlayer : Player
     {
-        Console.Write($"{Name} ({Symbol}), escolha uma coluna (0-6): ");
-        int move;
-        while (!int.TryParse(Console.ReadLine(), out move) || move < 0 || move > 6)
+        public HumanPlayer(char symbol) : base(symbol)
         {
-            Console.Write("Entrada inválida. Escolha uma coluna (0-6): ");
         }
-        return move;
+
+        public override int GetMove()
+        {
+            Console.WriteLine($"Player {Symbol}, enter your move (1-7): ");
+            return int.Parse(Console.ReadLine()) - 1;
+        }
     }
 }

@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|c:\\users\\thieg\\onedrive\\bow valley\\sodv1202\\final project\\connectfour\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97285CB-BFDB-421D-BB87-25DACE8E3AF3}|ConnectFour.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\.vs\\ConnectFour\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ConnectFour\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\.vs\\ProjectEvaluation\\connectfour.metadata.v8.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ProjectEvaluation\\connectfour.metadata.v8.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +46,127 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
               "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAmwCgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T05:18:50.96Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "ComputerPlayer.cs",
+              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\ComputerPlayer.cs",
+              "RelativeToolTip": "ComputerPlayer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:23:21.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HumanPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\HumanPlayer.cs",
-              "RelativeDocumentMoniker": "HumanPlayer.cs",
-              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\HumanPlayer.cs",
-              "RelativeToolTip": "HumanPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\GameController.cs",
+              "RelativeDocumentMoniker": "GameController.cs",
+              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\GameController.cs",
+              "RelativeToolTip": "GameController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:18:30.493Z",
+              "WhenOpened": "2024-06-17T16:20:53.807Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:18:09.398Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Board.cs",
               "RelativeDocumentMoniker": "Board.cs",
               "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Board.cs",
               "RelativeToolTip": "Board.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAmwHIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T05:17:46.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:18:09.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "HumanPlayer.cs",
+              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\HumanPlayer.cs",
+              "RelativeToolTip": "HumanPlayer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T05:18:30.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T05:17:29.738Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\.vs\\ConnectFour\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": ".vs\\ConnectFour\\v17\\DocumentLayout.json",
+              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\.vs\\ConnectFour\\v17\\DocumentLayout.json",
+              "RelativeToolTip": ".vs\\ConnectFour\\v17\\DocumentLayout.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T07:03:30.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "connectfour.metadata.v8.bin",
+              "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\.vs\\ProjectEvaluation\\connectfour.metadata.v8.bin",
+              "RelativeDocumentMoniker": ".vs\\ProjectEvaluation\\connectfour.metadata.v8.bin",
+              "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\.vs\\ProjectEvaluation\\connectfour.metadata.v8.bin",
+              "RelativeToolTip": ".vs\\ProjectEvaluation\\connectfour.metadata.v8.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-12T07:03:33.476Z"
             }
           ]
         }

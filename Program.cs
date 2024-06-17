@@ -1,8 +1,13 @@
-﻿class Program
+﻿using System;
+
+namespace ConnectFour
 {
-    static void Main(string[] args)
+    class Program
     {
-        Game game = new Game();
-        game.Play();
+        static void Main(string[] args)
+        {
+            GameController game = new GameController();
+            game.StartGame();
+        }
     }
 }
