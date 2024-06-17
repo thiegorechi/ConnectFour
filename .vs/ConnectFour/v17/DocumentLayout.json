@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -63,29 +63,23 @@
               "ViewState": "AQIAABUAAAAAAAAAAAAUwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T05:18:50.96Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ConnectFour",
+              "Title": "ConnectFour.csproj",
               "DocumentMoniker": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\ConnectFour.csproj",
               "RelativeDocumentMoniker": "ConnectFour.csproj",
               "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\ConnectFour.csproj",
               "RelativeToolTip": "ConnectFour.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-17T16:57:23.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-06-17T16:57:23.038Z"
             },
             {
               "$type": "Document",
@@ -97,8 +91,7 @@
               "RelativeToolTip": "ComputerPlayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T16:23:21.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T16:23:21.823Z"
             },
             {
               "$type": "Document",
@@ -108,7 +101,7 @@
               "RelativeDocumentMoniker": "GameController.cs",
               "ToolTip": "C:\\Users\\thieg\\OneDrive\\Bow Valley\\SODV1202\\Final Project\\ConnectFour\\GameController.cs",
               "RelativeToolTip": "GameController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAUwEsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T16:20:53.807Z",
               "EditorCaption": ""
@@ -123,8 +116,7 @@
               "RelativeToolTip": "Board.cs",
               "ViewState": "AQIAAG4AAAAAAAAAAAAUwIQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:17:46.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T05:17:46.887Z"
             },
             {
               "$type": "Document",
@@ -136,8 +128,7 @@
               "RelativeToolTip": "Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:18:09.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T05:18:09.398Z"
             },
             {
               "$type": "Document",
@@ -149,8 +140,7 @@
               "RelativeToolTip": "HumanPlayer.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:18:30.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T05:18:30.493Z"
             },
             {
               "$type": "Document",
@@ -162,8 +152,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T05:17:29.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T05:17:29.738Z"
             },
             {
               "$type": "Document",
